@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/jaiapps/static/css/main.8542af24.chunk.css",
+    "main.js": "/jaiapps/static/js/main.ad86ced7.chunk.js",
+    "main.js.map": "/jaiapps/static/js/main.ad86ced7.chunk.js.map",
+    "runtime-main.js": "/jaiapps/static/js/runtime-main.c33dd7cc.js",
+    "runtime-main.js.map": "/jaiapps/static/js/runtime-main.c33dd7cc.js.map",
+    "static/css/2.2f9ba80b.chunk.css": "/jaiapps/static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.10221414.chunk.js": "/jaiapps/static/js/2.10221414.chunk.js",
+    "static/js/2.10221414.chunk.js.map": "/jaiapps/static/js/2.10221414.chunk.js.map",
+    "index.html": "/jaiapps/index.html",
+    "static/css/2.2f9ba80b.chunk.css.map": "/jaiapps/static/css/2.2f9ba80b.chunk.css.map",
+    "static/css/main.8542af24.chunk.css.map": "/jaiapps/static/css/main.8542af24.chunk.css.map",
+    "static/js/2.10221414.chunk.js.LICENSE.txt": "/jaiapps/static/js/2.10221414.chunk.js.LICENSE.txt",
+    "static/media/img1.753f2580.svg": "/jaiapps/static/media/img1.753f2580.svg",
+    "static/media/img2.d7765b61.svg": "/jaiapps/static/media/img2.d7765b61.svg",
+    "static/media/s1.a9bdd94e.jpg": "/jaiapps/static/media/s1.a9bdd94e.jpg",
+    "static/media/s2.7d1582e3.jpg": "/jaiapps/static/media/s2.7d1582e3.jpg",
+    "static/media/s5.b7ffb644.jpg": "/jaiapps/static/media/s5.b7ffb644.jpg",
+    "static/media/s6.0eac75f4.jpg": "/jaiapps/static/media/s6.0eac75f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c33dd7cc.js",
+    "static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.10221414.chunk.js",
+    "static/css/main.8542af24.chunk.css",
+    "static/js/main.ad86ced7.chunk.js"
+  ]
+}
